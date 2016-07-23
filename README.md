@@ -14,6 +14,8 @@
 
 ## Advanced
 
-1. Add two plus `UIBarButtonItems`. One on `PiratesViewController` and one on `ShipsViewController`. When you click the plus it should modally present a new view controller that allows the user to add a either new pirate, or a new ship (which needs an engine and should be associated with a pirate!) to the database.
+1. Add two plus `UIBarButtonItems`. One on `PiratesViewController` and one on `ShipsViewController`. When you click the plus it should modally present a new view controller that allows the user to add either a new pirate, or a new ship (which needs an engine and should be associated with a pirate!) to the database.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-captain-morgans-relationships' title='Captain Morgans Relationships'>Captain Morgans Relationships</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-captain-morgans-relationships-lab'>Captain Morgans Relationships</a> on Learn.co and start learning to code for free.</p>
